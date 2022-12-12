@@ -6,4 +6,5 @@ engl_dic = [{"English":engli_word, "Georgia":word.translate(engli_word, dest="ka
 print(engl_dic)
 print(1)
 print(2)
+print(3)
 
